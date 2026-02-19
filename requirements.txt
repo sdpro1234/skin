@@ -1,0 +1,11 @@
+flask
+flask_sqlalchemy
+werkzeug
+torch
+torchvision
+transformers
+pillow
+pandas
+numpy
+g4f
+gunicorn
